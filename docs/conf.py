@@ -1,5 +1,4 @@
-project = 'ccleaner-account-activation
-'
+project = 'fix startup problems'
 author = 'Your Name'
 release = '1.0'
 
@@ -14,3 +13,5 @@ html_js_files = [
     'chatbot.js',
 ]
 html_favicon = '.png'
+
+conf.py
