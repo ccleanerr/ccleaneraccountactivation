@@ -1,4 +1,4 @@
-project = 'fix startup problems'
+project = 'CCleaner'
 author = 'Your Name'
 release = '1.0'
 
